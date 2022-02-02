@@ -4,11 +4,11 @@ Collect logs from both the Node.js backend and your frontend.
 
 # Installation
 
-You can install Logtail to use it in both backend and frontend code.
+You can install Logtail to use it in both backend (Node.js 12 or newer) and frontend code.
 
 ## Backend only
 
-Install Logtail library for your Node.js backend code using the `npm` package manager:
+Install Logtail library for your Node.js backend code using the `npm` package manager. We are currently supporting Node version 12 or newer.
 
 ```bash
 npm install @logtail/node
